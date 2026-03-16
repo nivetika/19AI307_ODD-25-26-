@@ -7,20 +7,19 @@ Write a Java program to find the index of a given element in an array
 
 
 ## ALGORITHM :
-
 1.	Start the program.
-
+   
 2.	Import the necessary package 'java.util'
    
-3.Read the element x whose index needs to be found.
+3. Read the element x whose index needs to be found.
 
-4.Traverse the array from index 0 to n-1:
+4. Traverse the array from index 0 to n-1:
 
      If a[i] == x, print the index i and terminate the program.
 
-5.If the loop finishes without a match, print "Element not found".
+5. If the loop finishes without a match, print "Element not found".
 
-6.End the program.
+6. End the program.
 
 ## PROGRAM:
  ```
