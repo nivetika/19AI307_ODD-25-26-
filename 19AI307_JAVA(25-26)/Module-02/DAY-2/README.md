@@ -28,8 +28,8 @@ To write a Java program that defines a method cube(int x) which internally calls
 ```
 /*
 Program to implement a conditional statement using Java
-Developed by: BHARATH K
-RegisterNumber:  212222110006
+Developed by: NIVETIKA K
+RegisterNumber:  212224060182
 */
 ```
 
