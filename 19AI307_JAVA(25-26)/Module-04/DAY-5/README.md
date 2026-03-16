@@ -1,4 +1,4 @@
-# Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 Create an MVC program for a School System where the DAO stores student info, controller fetches it, and view displays it.
