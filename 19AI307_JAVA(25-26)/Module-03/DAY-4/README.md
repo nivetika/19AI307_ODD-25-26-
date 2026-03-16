@@ -93,7 +93,7 @@ public class main
 ```
 
 ## OUTPUT:
-<img width="431" height="202" alt="image" src="https://github.com/user-attachments/assets/893c86c5-b2f8-4240-8d2b-98ca05b093a6" 
+<img width="431" height="202" alt="image" src="https://github.com/user-attachments/assets/893c86c5-b2f8-4240-8d2b-98ca05b093a6" />
 
 
 ## RESULT:
